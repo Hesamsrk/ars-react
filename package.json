@@ -1,0 +1,82 @@
+{
+  "_from": "ars-react@0.0.27",
+  "_id": "ars-react@0.0.27",
+  "_inBundle": false,
+  "_integrity": "sha512-0+xmwOwEoZsH1Rogeu/a4NmApsPMyom6v1VB+lgVw6qTlSLr1e+UepkfAONfO/e4iA5njyqKPUaa8gsFoDjjVQ==",
+  "_location": "/ars-react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "ars-react@0.0.27",
+    "name": "ars-react",
+    "escapedName": "ars-react",
+    "rawSpec": "0.0.27",
+    "saveSpec": null,
+    "fetchSpec": "0.0.27"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ars-react/-/ars-react-0.0.27.tgz",
+  "_shasum": "2884fd2971e1787a4da703651c09906c17ec5ad5",
+  "_spec": "ars-react@0.0.27",
+  "_where": "C:\\Users\\Windows 10\\Desktop\\octalbit-react",
+  "author": {
+    "name": "Amin Rezaie"
+  },
+  "bugs": {
+    "url": "https://github.com/arezaie14/ars-react/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Making React and Redux and React router dom easy to use and make  with ARS react",
+  "devDependencies": {
+    "@loadable/component": "^5.14.1",
+    "axios": "^0.21.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  },
+  "homepage": "https://github.com/arezaie14/ars-react",
+  "keywords": [
+    "react",
+    "ars-react",
+    "webpack",
+    "code-splitting",
+    "react-router",
+    "server-side-rendering",
+    "dynamic-import",
+    "react-loadable",
+    "react-async-components",
+    "dynamic-rendering",
+    "dynamic-routing",
+    "dynamic-importing",
+    "router",
+    "async-router",
+    "redux",
+    "react-redux",
+    "react-router-dom",
+    "redux-thunk",
+    "middleware",
+    "axios",
+    "ars",
+    "module",
+    "react-dom"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ars-react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arezaie14/ars-react.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.27"
+}
